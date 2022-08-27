@@ -1,5 +1,5 @@
 # Hello there
-Within this blog post I will be answering a few **questions** about myself.
+## Within this blog post I will be answering a few *questions* about myself.
 - Was my first week what I expected, *why* or *why not*?
 - What are you **excited** or **eager** to learn more about?
 - What is something about you that can only be learned by reading this blog?
