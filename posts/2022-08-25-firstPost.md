@@ -33,21 +33,13 @@ Coming from a very outdoorsy childhood I fit right into the club.
 # Week Number Two
 
 Q: *What is something you wish you could do but currently do not have the coding skills to accomplish?*
-
-A: 
 > Example text here
 
 Q: *What are you struggling with?*
-
-A:
 > Example text here
 
 Q: *How do you solve a problem?*
-
-A:
 > Example text here
 
 Q: *What methods do you use to help yourself get unstuck?*
-
-A:
 > Example text here
