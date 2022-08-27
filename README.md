@@ -9,6 +9,3 @@
 
 - A fun fact about me is that I have a 10 inch titanium plate holding my ankle together with 12 screws.
 Ask me about it sometime =]
-
-- You can find a blog about my journey through Awesome Inc's coding bootcamp [here](https://bellowingbutcher.github.io/posts/blogLog) 
-
