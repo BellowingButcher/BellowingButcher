@@ -30,6 +30,8 @@ I had a blast competing for UK. The events that I competed in were
 
 Coming from a very outdoorsy childhood I fit right into the club.
 
+
+
 # Week Number Two
 
 Q: *What is something you wish you could do but currently do not have the coding skills to accomplish?*
