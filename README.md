@@ -1,4 +1,4 @@
-### "Hello there" _ Obie-Wan Kenobie 👋
+### "Hello there" _ Obie-Wan Kenobi 👋
 - I am currently working on my basic knowlgedge in computer coding.
 
 - I am in the process of learning how to make compost for gardens on a larger than average scale.
