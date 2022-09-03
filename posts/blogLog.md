@@ -48,3 +48,9 @@ Q: *What methods do you use to help yourself get unstuck?*
 
 
 ---
+
+| Questions | Answers |
+| -----------| -----------|
+| What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?| example answer |
+| What are some objects that your blog incorporates? | Bacon ipsum dolor amet short ribs doner beef ribs et pork chop jowl. Burgdoggen reprehenderit ullamco, pork officia lorem venison enim t-bone in cow pariatur short loin pancetta. Salami ham nisi spare ribs, bacon sint id ad landjaeger anim. Pork consequat burgdoggen ullamco fatback ribeye. Prosciutto bacon duis ham hock. |
+| What are your thoughts on pseudocoding? | Example answer |
