@@ -1,4 +1,4 @@
-# Week One
+## Week One
 - Was my first week what I expected, *why* or *why not*?
 - What are you **excited** or **eager** to learn more about?
 - What is something about you that can only be learned by reading this blog?
@@ -30,18 +30,21 @@ I had a blast competing for UK. The events that I competed in were
 
 Coming from a very outdoorsy childhood I fit right into the club.
 
+---
 
-
-# Week Number Two
+## Week Number Two
 
 Q: *What is something you wish you could do but currently do not have the coding skills to accomplish?*
-> Example text here
+> I would like to be able to make an interactive calculator for my website.
 
 Q: *What are you struggling with?*
-> Example text here
+> The time it takes me to digest all the reading is a bit longer than I want it to be.
 
 Q: *How do you solve a problem?*
-> Example text here
+> If I haven't encountered this problem before, or one like it, I search for wisdom on the problem.  Either through my Mom and Dad, through my coding friend group, or even give it an ole Google.
 
 Q: *What methods do you use to help yourself get unstuck?*
-> Example text here
+> I like to focus my mind else where if I'm really stuck on a problem.  It helps to leave the problem and come back to it later with a fresh start.
+
+
+---
