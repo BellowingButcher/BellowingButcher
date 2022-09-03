@@ -49,6 +49,8 @@ Q: *What methods do you use to help yourself get unstuck?*
 
 ---
 
+## Week 3
+
 | Questions | Answers |
 | -----------| -----------|
 | What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?| example answer |
