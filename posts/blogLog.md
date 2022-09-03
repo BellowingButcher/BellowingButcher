@@ -49,7 +49,9 @@ Q: *What methods do you use to help yourself get unstuck?*
 
 ---
 
-## Week 3
+## Week Number 3
+---
+
 
 | Questions | Answers |
 | -----------| -----------|
