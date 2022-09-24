@@ -81,3 +81,22 @@ Q: How did you overcome challenges during Onboarding?
 > I had to eat the elephant one bite at a time.
 
 
+---
+### Week 5
+---
+
+Q: What is the number one thing that held you back this week? Why?
+
+> The kata logic is sometimes more than I can understand how to solve.  My brain isn't used to having to solve those problems as of late.  I've had a labor job that works my physical self and my managing people skill but nothing much else than that in problem solving.  
+
+Q: What is the one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+> I think that I am just scratching the surface of some major opportunity.  I've never thought much about how a computer works, or anything about them really other than just playing games on them. Barely even that too.  Learning the complexities just never end with JavaScript and how it can interact with ones and zeros.  Styling things has never really  been a strong suit of mine.  I don't have that great design eye. I know how it makes me feel when I see some colors together, but visual art has never been my path of creativity.  So just learning how to make styling simple is good for me. It seems that bootstrap is a way to make css simple.  To speak of Atomic Design, I think that it's interesting to think of the psychology that is behind how the human eye follows an invisible path on a screen.  Learning what the best paths to lay seems like a good skill to have.
+
+Q: How does In-Person Bootcamp compare to Remote Onboarding?
+
+> For me In-Person Bootcamp gives me the chance to patch the holes that were in my foundational knowledge.  Maybe even to the extent that I would say they provided some of the main support beams for my frame work.  Starting from nothing seems easy until you look around and see that you have to speak sanscrit to be able to use the screwdriver, speak latin to use the screws, and then speak english to have acess to the wood to screw together.  If you use your fingers to turn the screw into the wood, it'll work, but your fingers are going to be bleeding by the end.
+
+Q: What is your 'Why'?
+
+> As the best role model I can think of says. 'Family' __ Dominic Toretto
