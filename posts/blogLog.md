@@ -99,4 +99,18 @@ Q: How does In-Person Bootcamp compare to Remote Onboarding?
 
 Q: What is your 'Why'?
 
-> As the best role model I can think of says. 'Family' __ Dominic Toretto
+> 'Family' __ Dominic Toretto
+
+
+---
+### Week 6
+---
+
+Q: What did you learn about that helped you understand the development process?
+
+> 
+Q: What does it mean to develop good code?
+
+> To me, devolping good code means that you have an efficeint way of solving the problems that you set out to face.
+Q: What does it mean to be a good developer?
+Q: What is one thing that programmers hate doing?
