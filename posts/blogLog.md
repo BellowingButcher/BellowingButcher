@@ -108,7 +108,7 @@ Q: What is your 'Why'?
 
 Q: What did you learn about that helped you understand the development process?
 
->  
+>  This week we covered the MOSCOW list.  It was a beneficial tool for keeping my mind focused on what the project should have in it compared to the time I have available to work on it.  It keeps you from wasting time on features that would be cool, but not needed.
 
 Q: What does it mean to develop good code?
 
@@ -121,3 +121,39 @@ Q: What does it mean to be a good developer?
 Q: What is one thing that programmers hate doing?
 
 > Wasting time.
+
+
+---
+### Week 7
+---
+
+
+
+
+---
+### Week 8
+---
+
+Q: Do you think JavaScript Frameworks and Libraries are easy or hard to use? Why?
+
+> I think that they have their use cases.  But as a noobie, I am not yet tired of doing things the long way yet.  Writing it out helps me understand what is going on in the code.  
+
+Q: What Frameworks or Libraries are you interested in learning more about?
+
+> I haven't done any research into any other libraries than React.  I am unsure of any that I would be interested in.
+
+Find one emerging JavaScript tool that you would like to learn more about or use in your final project.
+
+---
+### Week 9
+---
+
+Q: What have you learned about CLIs? Do you think they are scary?
+
+> Yes they are scary.  They have the potential to overwrite a lot of work done by others. Or sending files to the incorrect area, those files may contain some sensitive information.
+
+Q: If you were to build a CLI, what would it do?
+
+> I would want an interface that uploads and installs all the correct packages to your project that you are wanting to use.  Then also sets up a base repo with the correct files and pathways already linked in those files. HTML, CSS, JS, Bootstrap, etc..
+
+Q: List some ideas that without a Framework, would take you a long time to code
