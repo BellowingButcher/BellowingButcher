@@ -108,9 +108,16 @@ Q: What is your 'Why'?
 
 Q: What did you learn about that helped you understand the development process?
 
-> 
+>  
+
 Q: What does it mean to develop good code?
 
-> To me, devolping good code means that you have an efficeint way of solving the problems that you set out to face.
+> To me, developing good code means that you have an efficient way of solving the problems that you set out to face.
+
 Q: What does it mean to be a good developer?
+
+> A good developer is always in maintenance mode.  Always finding an efficient pathway to the problem solution. 
+
 Q: What is one thing that programmers hate doing?
+
+> Wasting time.
