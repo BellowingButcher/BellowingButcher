@@ -150,10 +150,34 @@ Find one emerging JavaScript tool that you would like to learn more about or use
 
 Q: What have you learned about CLIs? Do you think they are scary?
 
-> Yes they are scary.  They have the potential to overwrite a lot of work done by others. Or sending files to the incorrect area, those files may contain some sensitive information.
+> Yes they are scary.  They have the potential to overwrite a lot of work done by others. Or sending files to the incorrect area, those files may contain some sensitive information.  When you download a package then you are downloading any possible problems with that package as well.  
 
 Q: If you were to build a CLI, what would it do?
 
-> I would want an interface that uploads and installs all the correct packages to your project that you are wanting to use.  Then also sets up a base repo with the correct files and pathways already linked in those files. HTML, CSS, JS, Bootstrap, etc..
+> I would want an interface that uploads and installs all the correct packages to your project that you are wanting to use, maybe with a prompt to ask what your tech stack is. Has a list of recommended packages that you can choose if you want to download them. Then also sets up a base repo with the correct files and pathways already linked in those files. HTML, CSS, JS, Bootstrap, etc..
 
 Q: List some ideas that without a Framework, would take you a long time to code
+
+> The first one I was able to come up with is any video games.  There are a lot of variables to deal with when you are working with an application the size of a game.  It could range from half a million to hundreds of millions of lines of code for a triple A game.  Without a specific way to interact with those variables and also pre-built helper functions that were designed by experts.  That many lines of code to manage as a single developer would be impossible. 
+
+---
+### Week 9
+---
+
+Q: Now that you are halfway through boot-camp, what has been the biggest hurdle that you have gone past? What do you think is going to be the next biggest thing to power through?
+
+> The biggest hurdle that I have is and always has been is myself. I tend to get stuck in a bad cycle that resembles the feed back loop that you get when you bring a microphone too close to the speaker that the sound is emitting from.  The screech that you first heard is picked up by the microphone and then amplified by the speaker. Which is then picked up by the microphone again. You get the loop.  Once I get down on myself or just depressed because the task ahead looks so giant that the steps needed to climb that giant task seem to never end.  On top of that the step that I am on doesn't really have a solid foundation. I can't seem to be ok with just leaving that step all wibbly wobbly for now I must make it sturdy and able to handle my fat ass when I come back to step on this project again.
+
+Q: Compared to earlier, what are three ideas you might want to do for your final project? Are they the same ideas as before, or have they changed now that you understand more about the technology and your limitations?
+
+> I only have one idea so far.  I am still brainstorming for some others.  It is the same idea I had when applying for the camp.  It is an A.I. that watches a fiat coin and makes purchases based on if the coin is above or bellow the current value of a dollar.  I am thinking possibly a type of text based game. Puzzle or rpg would be the two types I would think of.  But I don't really know if that will be an acceptable project.  I don't have an idea for a third yet. It's in the process of being formulated though.
+
+Q: What surprised you about your first week in Python and how was it different from your first week in JavaScript? 
+
+> I am surprised at how much more it seemed to click into place.  I have a small foundation of a velcro wall now to stick new information to.  It was very encouraging finding this out.  I was having a pretty rough time mentally before the start of this week.  I was getting pretty depressed about the state of my design projects.  Now, it is feeling like I have more mental energy to be able to dedicate it to the thoughts that the blog posts require as well as the thought that designing a page that represents me as a person and also demonstrates my coding skill for any possible employers to be impressed with takes.  With the first weeks of JavaScript I felt like I was drowning because not only were we learning 3 languages but we were learning the concepts of programing and how programing works in general.
+
+---
+### Week 10
+---
+
+
