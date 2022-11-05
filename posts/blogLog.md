@@ -161,7 +161,7 @@ Q: List some ideas that without a Framework, would take you a long time to code
 > The first one I was able to come up with is any video games.  There are a lot of variables to deal with when you are working with an application the size of a game.  It could range from half a million to hundreds of millions of lines of code for a triple A game.  Without a specific way to interact with those variables and also pre-built helper functions that were designed by experts.  That many lines of code to manage as a single developer would be impossible. 
 
 ---
-### Week 9
+### Week 10
 ---
 
 Q: Now that you are halfway through boot-camp, what has been the biggest hurdle that you have gone past? What do you think is going to be the next biggest thing to power through?
@@ -177,7 +177,19 @@ Q: What surprised you about your first week in Python and how was it different f
 > I am surprised at how much more it seemed to click into place.  I have a small foundation of a velcro wall now to stick new information to.  It was very encouraging finding this out.  I was having a pretty rough time mentally before the start of this week.  I was getting pretty depressed about the state of my design projects.  Now, it is feeling like I have more mental energy to be able to dedicate it to the thoughts that the blog posts require as well as the thought that designing a page that represents me as a person and also demonstrates my coding skill for any possible employers to be impressed with takes.  With the first weeks of JavaScript I felt like I was drowning because not only were we learning 3 languages but we were learning the concepts of programing and how programing works in general.
 
 ---
-### Week 10
+### Week 11
 ---
+
+Q: What are some similarities and differences you can see with JS and Python?
+
+> Some similarities are the fact that they both use a form of 'pseudocode' as a way to structure the logic side of a problem you are trying to solve.  Both languages contain loops, conditional statements, functions, and even have a specific structure that you must follow for the computer to know what you want it to do.  What words you use to convey what you want the computer to do are different.  The structure to how you lay your code out is different.  JavaScript is more loose where python is more ridged.
+
+Q: If you had started with Python instead of JS, how do you think the Bootcamp would be different? Would you have benefited?
+
+> I'm not sure what would be different.  I think starting with JS is a good thing.  It is more basic in language and needs more direction from you as the coder.  You have to walk the computer almost step by step in JS.  Python is a bit more "hand-wavey".  For example, this is what you need to type to loop through something 5 times for JS: "for (let i=0; i<=5; i++)".  In contrast, python is: For x in range(0,6).  Way easier to read and way more simple to write.  So in conclusion I think it is better to learn the more nitty gritty details before allowing yourself to move up in a level of abstraction.
+
+Q: Think of a project or tech-based tool that you use often and think about what the database structure might look like for it. Do you feel like you have a better understanding of how it works now and could you see yourself enjoying building something like that in the future? 
+
+>  Oh yeah! I can see it more clearly.  Not super clear of course.  There are a lot of aspects that I am unaware of and also dont have cemented in understanding.  But on the whole, I do understand how websites are accessing databases.  An Ahh Hah moment (moment of clarity), for me was how the filter buttons on search bars gather and sort information based on what you want.  
 
 
