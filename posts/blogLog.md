@@ -193,3 +193,20 @@ Q: Think of a project or tech-based tool that you use often and think about what
 >  Oh yeah! I can see it more clearly.  Not super clear of course.  There are a lot of aspects that I am unaware of and also dont have cemented in understanding.  But on the whole, I do understand how websites are accessing databases.  An Ahh Hah moment (moment of clarity), for me was how the filter buttons on search bars gather and sort information based on what you want.  
 
 
+---
+### Week 12
+---
+
+
+Q: What are you struggling with the most in the Tech Stack so far and why?
+
+> The thing that I struggle with the most is the lack of time I am able to spend on each individual piece of the tech stack.  The next struggle I think of is the complexity that code can have with just a few short keystrokes.  Complexity is something that I need time to understand how each piece of the code fits into the complex puzzle of a program.
+
+Q: What companies or people (local or not) would you like to hear talk during a Bootcamp lunch and learn?
+
+> I am unfamiliar with any of the tech companies around lexington.  I do remember hearing about one called VR Together.  The things they are doing there really speak to me.  Giving elderly people the capability to keep in touch with their family from where ever they are is something that rings true to my feelings.
+
+Q: After having built your first full-stack application, what things in your repertoire are a sticking point for you? Were you able to reconnect your React Restaurant to your Backend Bistro code? If so, what was that like, and if not, what hurdles did you need to jump?
+
+> I keep thinking back to JavaScript. It may be a sticking point for me because we spent so much time on it.  I did tones of studying and note taking on it.  So I feel more at home in JavaScript at this moment.  That is because of how much more time I was able to spend in the learning process.  I like how it has the capability of doing backend and front end work.  Also anytime you hear about coding you always hear about JavaScript.
+
